@@ -4,6 +4,7 @@
  * 200 E. Randolph, 25th Floor
  * Chicago, IL 60601 USA
  * All rights reserved.
+ /* some simple test */
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions
